@@ -97,6 +97,7 @@ export var UNITS = {
   "<oilbarrel>":  [["bbl","oilbarrel", "oilbarrels", "oil-barrel","oil-barrels"], 0.158987294928, "volume", ["<meter>","<meter>","<meter>"]],
   "<beerbarrel>":  [["bl","bl-us","beerbarrel", "beerbarrels", "beer-barrel","beer-barrels"], 0.1173477658, "volume", ["<meter>","<meter>","<meter>"]],
   "<beerbarrel-imp>":  [["blimp","bl-imp","beerbarrel-imp", "beerbarrels-imp", "beer-barrel-imp","beer-barrels-imp"], 0.16365924, "volume", ["<meter>","<meter>","<meter>"]],
+  "<cft>":[["cft","cubic-foot"], 0.028316845592, "volume", ["<foot>","<foot>","<foot>"]],
 
   /* speed */
   "<kph>" : [["kph"], 0.277777778, "speed", ["<meter>"], ["<second>"]],
