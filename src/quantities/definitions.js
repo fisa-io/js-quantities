@@ -18,7 +18,7 @@ export var UNITS = {
   "<peta>"  :  [["P","Peta","peta"], 1e15, "prefix"],
   "<tera>"  :  [["T","Tera","tera"], 1e12, "prefix"],
   "<giga>"  :  [["G","Giga","giga"], 1e9, "prefix"],
-  "<mega>"  :  [["M","Mega","mega"], 1e6, "prefix"],
+  "<mega>"  :  [["M","Mega","mega","MM"], 1e6, "prefix"],
   "<kilo>"  :  [["k","kilo"], 1e3, "prefix"],
   "<hecto>" :  [["h","Hecto","hecto"], 1e2, "prefix"],
   "<deca>"  :  [["da","Deca","deca","deka"], 1e1, "prefix"],
