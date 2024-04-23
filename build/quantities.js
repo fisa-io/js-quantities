@@ -212,7 +212,8 @@ SOFTWARE.
     "<peta>"  :  [["P","Peta","peta"], 1e15, "prefix"],
     "<tera>"  :  [["T","Tera","tera"], 1e12, "prefix"],
     "<giga>"  :  [["G","Giga","giga"], 1e9, "prefix"],
-    "<mega>"  :  [["M","Mega","mega"], 1e6, "prefix"],
+    "<mega>": [["M", "Mega", "mega"], 1e6, "prefix"],
+    "<million>"  :  [["MM","Million","million"], 1e6, "prefix"],
     "<kilo>"  :  [["k","kilo"], 1e3, "prefix"],
     "<hecto>" :  [["h","Hecto","hecto"], 1e2, "prefix"],
     "<deca>"  :  [["da","Deca","deca","deka"], 1e1, "prefix"],
@@ -291,6 +292,7 @@ SOFTWARE.
     "<oilbarrel>":  [["bbl","oilbarrel", "oilbarrels", "oil-barrel","oil-barrels"], 0.158987294928, "volume", ["<meter>","<meter>","<meter>"]],
     "<beerbarrel>":  [["bl","bl-us","beerbarrel", "beerbarrels", "beer-barrel","beer-barrels"], 0.1173477658, "volume", ["<meter>","<meter>","<meter>"]],
     "<beerbarrel-imp>":  [["blimp","bl-imp","beerbarrel-imp", "beerbarrels-imp", "beer-barrel-imp","beer-barrels-imp"], 0.16365924, "volume", ["<meter>","<meter>","<meter>"]],
+    "<cft>":[["cf","cft","cubic-foot"], 0.028316845592, "volume", ["<foot>","<foot>","<foot>"]],
 
     /* speed */
     "<kph>" : [["kph"], 0.277777778, "speed", ["<meter>"], ["<second>"]],
