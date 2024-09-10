@@ -287,8 +287,8 @@ var UNITS = {
   "<beerbarrel>":  [["bl","bl-us","beerbarrel", "beerbarrels", "beer-barrel","beer-barrels"], 0.1173477658, "volume", ["<meter>","<meter>","<meter>"]],
   "<beerbarrel-imp>":  [["blimp","bl-imp","beerbarrel-imp", "beerbarrels-imp", "beer-barrel-imp","beer-barrels-imp"], 0.16365924, "volume", ["<meter>","<meter>","<meter>"]],
   "<cft>":[["cf","cft","cubic-foot"], 0.028316845592, "volume", ["<meter>","<meter>","<meter>"]],
-  "<ccft>":[["ccf","ccft","hundreds cubic-foot"], 2.8316845592, "volume", ["<meter>","<meter>","<meter>"]],
-  "<mcft>":[["mcf","mcft","million cubic-foot"], 28316.845592, "volume", ["<meter>","<meter>","<meter>"]],
+  "<ccft>":[["ccf","ccft","hundred cubic-foot"], 2.8316845592, "volume", ["<meter>","<meter>","<meter>"]],
+  "<mcft>":[["mcf","mcft","thousand cubic-foot"], 28.316845592, "volume", ["<meter>","<meter>","<meter>"]],
 
 
   /* speed */
