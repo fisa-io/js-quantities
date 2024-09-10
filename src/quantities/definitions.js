@@ -80,7 +80,7 @@ export var UNITS = {
   /* area */
   "<hectare>":[["hectare"], 10000, "area", ["<meter>","<meter>"]],
   "<acre>":[["acre","acres"], 4046.85642, "area", ["<meter>","<meter>"]],
-  "<sqft>":[["sqft"], 0.09290304, "area", ["<foot>","<foot>"]],
+  "<sqft>":[["sqft"], 0.09290304, "area", ["<meter>","<meter>"]],
 
   /* volume */
   "<liter>" : [["l","L","liter","liters","litre","litres"], 0.001, "volume", ["<meter>","<meter>","<meter>"]],
@@ -98,7 +98,10 @@ export var UNITS = {
   "<oilbarrel>":  [["bbl","oilbarrel", "oilbarrels", "oil-barrel","oil-barrels"], 0.158987294928, "volume", ["<meter>","<meter>","<meter>"]],
   "<beerbarrel>":  [["bl","bl-us","beerbarrel", "beerbarrels", "beer-barrel","beer-barrels"], 0.1173477658, "volume", ["<meter>","<meter>","<meter>"]],
   "<beerbarrel-imp>":  [["blimp","bl-imp","beerbarrel-imp", "beerbarrels-imp", "beer-barrel-imp","beer-barrels-imp"], 0.16365924, "volume", ["<meter>","<meter>","<meter>"]],
-  "<cft>":[["cf","cft","cubic-foot"], 0.028316845592, "volume", ["<foot>","<foot>","<foot>"]],
+  "<cft>":[["cf","cft","cubic-foot"], 0.028316845592, "volume", ["<meter>","<meter>","<meter>"]],
+  "<ccft>":[["ccf","ccft","hundreds cubic-foot"], 2.8316845592, "volume", ["<meter>","<meter>","<meter>"]],
+  "<mcft>":[["mcf","mcft","million cubic-foot"], 28316.845592, "volume", ["<meter>","<meter>","<meter>"]],
+
   
 
   /* speed */
