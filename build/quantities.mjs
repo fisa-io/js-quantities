@@ -390,6 +390,7 @@ var UNITS = {
   "<Calorie>" :  [["Cal","Calorie","Calories"], 4184.00, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<therm>"   :  [["thm","therm","therms","Therm"], 105506000, "energy", ["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<therm-US>" : [["th","therm-US"], 105480400, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
+  "<therm-UK>" : [["therm-UK"], 105505585.257348, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<Wh>" : [["Wh"], 3600, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<electronvolt>" : [["eV", "electronvolt", "electronvolts"], 1.602176634E-19, "energy", ["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
 
