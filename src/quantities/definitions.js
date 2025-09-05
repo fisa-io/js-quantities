@@ -206,6 +206,7 @@ export var UNITS = {
   "<therm-UK>" : [["therm-UK"], 105505585.257348, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<Wh>" : [["Wh"], 3600, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
   "<electronvolt>" : [["eV", "electronvolt", "electronvolts"], 1.602176634E-19, "energy", ["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
+  "<toe>" : [["toe"], 4.187e+10, "energy",["<meter>","<meter>","<kilogram>"], ["<second>","<second>"]],
 
   /* force */
   "<newton>"  : [["N","Newton","newton"], 1.0, "force", ["<kilogram>","<meter>"], ["<second>","<second>"]],
