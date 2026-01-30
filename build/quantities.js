@@ -1109,6 +1109,7 @@ SOFTWARE.
     "<each>",
     "<steradian>",
     "<decibel>",
+    "<srm>",
   ];
 
   var UNITY = "<1>";

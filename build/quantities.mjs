@@ -1051,6 +1051,7 @@ var BASE_UNITS = [
   "<each>",
   "<steradian>",
   "<decibel>",
+  "<srm>",
 ];
 
 var UNITY = "<1>";

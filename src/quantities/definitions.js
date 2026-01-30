@@ -859,6 +859,7 @@ export var BASE_UNITS = [
   "<each>",
   "<steradian>",
   "<decibel>",
+  "<srm>",
 ];
 
 export var UNITY = "<1>";
