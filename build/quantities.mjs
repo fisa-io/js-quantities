@@ -1032,8 +1032,8 @@ var UNITS = {
     ["<decibel>"],
   ],
 
-  "<srm>": [["srm"], 1.0, "volume", ["<srm>"]],
-  "<rm>": [["rm"], 1.5, "volume", ["<srm>"]],
+  "<srm>": [["srm"], 1.0, "wood", ["<srm>"]],
+  "<rm>": [["rm"], 1.5, "wood", ["<srm>"]],
 };
 
 var BASE_UNITS = [
