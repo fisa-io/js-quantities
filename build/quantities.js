@@ -264,7 +264,8 @@ SOFTWARE.
     "<league>": [["league", "leagues"], 4828, "length", ["<meter>"]],
     "<furlong>": [["furlong", "furlongs"], 201.2, "length", ["<meter>"]],
     "<rod>": [["rd", "rod", "rods"], 5.029, "length", ["<meter>"]],
-    "<mil>": [["mil", "mils"], 0.0000254, "length", ["<meter>"]],
+    "<mils>": [["mils"], 0.0000254, "length", ["<meter>"]],
+    "<mil>": [["mil", "mile-scandinavian"], 10000, "length", ["<meter>"]],
     "<angstrom>": [
       ["ang", "angstrom", "angstroms"],
       1e-10,
