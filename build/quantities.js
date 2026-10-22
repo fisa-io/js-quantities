@@ -491,6 +491,12 @@ SOFTWARE.
       "volume",
       ["<meter>", "<meter>", "<meter>"],
     ],
+    "<scf>": [
+      ["scf", "standard cubic-foot"],
+      0.028316845592,
+      "volume",
+      ["<meter>", "<meter>", "<meter>"],
+    ],
 
     /* speed */
     "<kph>": [["kph"], 0.277777778, "speed", ["<meter>"], ["<second>"]],
