@@ -263,7 +263,7 @@ export var UNITS = {
     ["<meter>", "<meter>", "<meter>"],
   ],
 
-  /* speed */
+  /* speed  */
   "<kph>": [["kph"], 0.277777778, "speed", ["<meter>"], ["<second>"]],
   "<mph>": [["mph"], 0.44704, "speed", ["<meter>"], ["<second>"]],
   "<knot>": [
